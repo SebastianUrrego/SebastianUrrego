@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Andres Sebastian Urrego Amaya </h1> 
 
-<!--
-**SebastianUrrego/SebastianUrrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href = "sebasu0302@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😃</h2>
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 ESTUDIANTE DE CIENCIAS DE LA COMPUTACION E INTELIGENCIA ARTIFICIAL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 ACTUALMENTE ESTUDIANTE EN LA UNIVERSIDAD SERGIO ARBOLEDA SEDE BOGOTÁ
+
+💻 INTENTO APRENDER CADA DIA ALGO NUEVO Y ASI MEJORAR EN LO QUE HAGO (CIENCIA DE DATOS, CIBERSEGURIDAD Y DESARROLLADOR FRONTEND)
+
+📫 Contacto: **sebasu0302@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,py,css,html,js,sqlite,postgres,git,github,vscode,visualstudio,unity,windows,netlify,bash,linux,kali,discord&perline=12" />
+  </a>
+</p>
+<br>
+
+<section>
+    <h2>🏅 Certificados de Cursos</h2>
+    
+</section>
