@@ -29,5 +29,5 @@
 
 <section>
     <h2>🏅 Certificados de Cursos</h2>
-    
+    ![Data Science Essentials with Python](data-science-essentials-with-python.png)
 </section>
