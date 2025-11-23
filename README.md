@@ -29,6 +29,5 @@
 
 <section>
     <h2>🏅 Certificados de Cursos</h2>
-    [![Data Science Essentials with Python](data-science-essentials-with-python.png)]([https://www.credly.com/badges/01c8e38f-7d19-4b66-a88f-370cac7054e7/public_url](https://www.credly.com/badges/01c8e38f-7d19-4b66-a88f-370cac7054e7/public_url))
-
+    ![Data Science Essentials with Python](data-science-essentials-with-python.png)
 </section>
