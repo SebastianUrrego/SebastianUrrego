@@ -30,4 +30,6 @@
 <section>
     <h2>🏅 Certificados de Cursos</h2>
     https://www.credly.com/badges/01c8e38f-7d19-4b66-a88f-370cac7054e7/public_url
+    <img width="766" height="516" alt="image" src="https://github.com/user-attachments/assets/9b077a73-17ea-4e53-b31c-73ed82eb9056" />
+
 </section>
