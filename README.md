@@ -19,5 +19,5 @@
 # 📄 Certificados:
 DATA SCIENCE ESSENTIALS WITH PYTHON
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6e2fa90-081b-4460-954c-b03a418e8f29" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c6e2fa90-081b-4460-954c-b03a418e8f29" width="500"/>
 </p>
