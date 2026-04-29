@@ -1,35 +1,18 @@
-<h1 align="center">Hola 👋  soy Andres Sebastian Urrego Amaya </h1> 
+# 💫 About Me:
+🎓 ESTUDIANTE DE CIENCIAS DE LA COMPUTACION E INTELIGENCIA ARTIFICIAL<br><br>📝 ACTUALMENTE ESTUDIANTE EN LA UNIVERSIDAD SERGIO ARBOLEDA SEDE BOGOTÁ<br><br>💻 INTENTO APRENDER CADA DIA ALGO NUEVO Y ASI MEJORAR EN LO QUE HAGO (CIENCIA DE DATOS, DESARROLLADOR FULL STACK, Y JUNIOR EN DESARROLLO DE VIDEOJUEGOS)
 
-<p align="left">
-<a href = "sebasu0302@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
 
-<p align="left">
-🎓 ESTUDIANTE DE CIENCIAS DE LA COMPUTACION E INTELIGENCIA ARTIFICIAL
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seb4s404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebasu0302@gmail.com) 
 
-📝 ACTUALMENTE ESTUDIANTE EN LA UNIVERSIDAD SERGIO ARBOLEDA SEDE BOGOTÁ
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SebastianUrrego&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SebastianUrrego&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SebastianUrrego&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-💻 INTENTO APRENDER CADA DIA ALGO NUEVO Y ASI MEJORAR EN LO QUE HAGO (CIENCIA DE DATOS, CIBERSEGURIDAD Y DESARROLLADOR FRONTEND)
+---
+[![](https://komarev.com/ghpvc/?username=SebastianUrrego&icon=0&color=1)](https://visitcount.itsvg.in)
 
-📫 Contacto: **sebasu0302@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,css,html,js,django,postgres,androidstudio,git,github,vscode,visualstudio,unity,windows,netlify,bash,linux,kali,discord&perline=12" />
-  </a>
-</p>
-<br>
-
-<section>
-    <h2>🏅 Certificados de Cursos</h2>
-    https://www.credly.com/badges/01c8e38f-7d19-4b66-a88f-370cac7054e7/public_url
-    <img width="766" height="516" alt="image" src="https://github.com/user-attachments/assets/9b077a73-17ea-4e53-b31c-73ed82eb9056" />
-
-</section>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
