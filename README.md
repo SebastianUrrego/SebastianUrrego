@@ -18,4 +18,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📄 Certificados:
 DATA SCIENCE ESSENTIALS WITH PYTHON
-<img width="781" height="604" alt="image" src="https://github.com/user-attachments/assets/c6e2fa90-081b-4460-954c-b03a418e8f29" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6e2fa90-081b-4460-954c-b03a418e8f29" width="400"/>
+</p>
