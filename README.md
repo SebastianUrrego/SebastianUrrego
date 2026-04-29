@@ -16,6 +16,6 @@
 [![](https://komarev.com/ghpvc/?username=SebastianUrrego&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# Certificados:
+# 📄 Certificados:
 DATA SCIENCE ESSENTIALS WITH PYTHON
 <img width="781" height="604" alt="image" src="https://github.com/user-attachments/assets/c6e2fa90-081b-4460-954c-b03a418e8f29" />
