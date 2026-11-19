@@ -54,10 +54,10 @@
 
 ### AWS ACADEMY GRADUATE - DATA ENGINEERING - TRAINING BADGE
 <p align="center">
-  <a href="https://www.credly.com/go/95udcgoW" target="_blank">
+  <a href="https://www.credly.com/go/eCtKyXHm" target="_blank">
     <img src="Badges/aws-academy-graduate-data-engineering-training-badg.png" width="160" alt="Badge AWS Academy Graduate Data Engineering" />
   </a><br/><br/>
-  <a href="Badges/AWS_Academy_Graduate___Data_Engineering___Training_Badge_Badge20261119-20-7qoxc2.pdf" target="_blank">
+  <a href="Badges/AWS_Academy_Graduate___Data_Engineering___Training_Badge_Badge20261119-20-gcdc4y.pdf" target="_blank">
     <img src="Badges/aws-academy-graduate-data-engineering-certificate.png" width="600" alt="Certificado AWS Academy Graduate Data Engineering" />
   </a>
 </p>
