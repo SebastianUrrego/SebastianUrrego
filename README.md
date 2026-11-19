@@ -43,11 +43,23 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📄 Certificados:
-DATA SCIENCE ESSENTIALS WITH PYTHON
+
+### DATA SCIENCE ESSENTIALS WITH PYTHON
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6e2fa90-081b-4460-954c-b03a418e8f29" width="500"/>
+  <img src="Badges/data-science-essentials-with-python.png" width="160" alt="Badge Data Science Essentials with Python" /><br/><br/>
+  <a href="Badges/Data_Science_Essentials_with_Python_certificate_andres-urrego03-usa-edu-co_bc3fc436-ffb7-4c44-a21f-8b4d56da4ed0.pdf" target="_blank">
+    <img src="Badges/data-science-essentials-with-python-certificate.png" width="600" alt="Certificado Data Science Essentials with Python" />
+  </a>
 </p>
 
-AWS Academy Graduate - Data Engineering - Training Badge
-<img width="500" height="853" alt="image" src="https://github.com/user-attachments/assets/67761d36-72b5-4dd4-8fec-9b449711eadb" />
+### AWS ACADEMY GRADUATE - DATA ENGINEERING - TRAINING BADGE
+<p align="center">
+  <a href="https://www.credly.com/go/95udcgoW" target="_blank">
+    <img src="Badges/aws-academy-graduate-data-engineering-training-badg.png" width="160" alt="Badge AWS Academy Graduate Data Engineering" />
+  </a><br/><br/>
+  <a href="Badges/AWS_Academy_Graduate___Data_Engineering___Training_Badge_Badge20261119-20-7qoxc2.pdf" target="_blank">
+    <img src="Badges/aws-academy-graduate-data-engineering-certificate.png" width="600" alt="Certificado AWS Academy Graduate Data Engineering" />
+  </a>
+</p>
+
 
